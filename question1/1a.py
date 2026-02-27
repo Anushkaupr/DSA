@@ -59,3 +59,9 @@ if __name__ == "__main__":
     for pts, expected in tests:
         result = max_points_on_line(pts)
         print(f"{'PASS' if result == expected else 'FAIL'} | got={result} | expected={expected} | input={pts}")
+
+
+
+
+
+        
